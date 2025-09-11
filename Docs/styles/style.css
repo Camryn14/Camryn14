@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
 
+/* * {
+  border: solid 1px black; 
+} */
+
 
 h1 {
     font-family: "Quicksand", sans-serif;;
@@ -14,3 +18,5 @@ h1 {
     margin-left: 12em;
     padding: 4px;
 }
+
+
