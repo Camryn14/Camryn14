@@ -1,22 +1,22 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
 
-/* * {
-  border: solid 1px black; 
-} */
-
-
 h1 {
-    font-family: "Quicksand", sans-serif;;
+  font-family: "Quicksand", sans-serif;
 }
 
-/* .customclass,  */
 .mydivclass {
-    height: 50px;
-    width: 50px;
-    background-color: red;
-    border: dotted 2px green;
-    margin-left: 12em;
-    padding: 4px;
+  height: 50px;
+  width: 50px;
+  background-color: red;
+  border: dotted 2px green;
+  margin-left: 12em;
+  padding: 4px;
 }
 
-
+/* Advanced selector: hover effect */
+button:hover {
+  background-color: #333;
+  color: #fff;
+  transform: scale(1.05);
+}
