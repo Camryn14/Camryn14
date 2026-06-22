@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Camryn Williams
 ========================================================================================================================================
 
-Information technology major
+Information Technology Major
 ----------------------------
 
 I am a senior at the university of North Alabama and trying to pursue cyber security. Mu goal is to start my career in Huntsville Alabama once I graduate
