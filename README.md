@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Information Technology Major
 ----------------------------
 
-I am a senior at the university of North Alabama and trying to pursue cyber security. My goal is to start my career in Huntsville Alabama once I graduate.
+I am a senior at the university of North Alabama and trying to pursue cyber security. Mu goal is to start my career in Huntsville Alabama once I graduate
 
 * 🌍  I'm based in Killen, Alabama
 * ✉️  You can contact me at [cwilliams41@una.edu](mailto:cwilliams41@una.edu)
