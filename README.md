@@ -17,7 +17,9 @@ I am a senior at the university of North Alabama and trying to pursue cyber secu
 
 ### projects
 
-- check out my idea repositiry, 🧠🥤brain cup [app] [repo](https://github.com/Camryn14/charlie-brain-cup)
+- check out my idea repositiry, 🧠🥤brain cup <a target="_blank" href="https://camryn14.github.io/charlie-brain-cup/">app</a> | <a target="_blank" href="https://github.com/Camryn14/charlie-brain-cup/">repo</a>
+-
+- [app] [repo](https://github.com/Camryn14/charlie-brain-cup)
 
 ### Socials
 
